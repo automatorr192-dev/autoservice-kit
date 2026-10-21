@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://automatorr192-dev.github.io/autoservice-kit/demo/protektor/sitemap.xml
